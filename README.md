@@ -3,7 +3,7 @@
 
 Clone repo      
 
-https://github.com/HirushaR/slaravel-student-portal.git
+https://github.com/kaveesha12/slaravel-student-portal.git
 
 Install the composer dependencies
 
