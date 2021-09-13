@@ -6,13 +6,16 @@ Trello
 https://trello.com/b/G02BHbG2/laravel-blog-system
                                                                 
 
-###Resources
+
 ![image](https://user-images.githubusercontent.com/59313302/133083185-dd3c7bf9-2e8c-453c-8d46-bf07ead42888.png) ==========
-[Laravel](https://laravel.com/ "Laravel")============
-[GitHub community forum](https://github.community/ "GitHub community forum")==========
-[Education community forum](https://education.github.community/ "Education community forum")========== 
-[GitHub's Learning Lab](https://lab.github.com/  "GitHub's Learning Lab")===========
-[Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class "Interactive Git training materials")======
+
+###Resources
+================================================
+-[Laravel](https://laravel.com/ "Laravel")============
+-[GitHub community forum](https://github.community/ "GitHub community forum")==========
+-[Education community forum](https://education.github.community/ "Education community forum")========== 
+-[GitHub's Learning Lab](https://lab.github.com/  "GitHub's Learning Lab")===========
+-[Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class "Interactive Git training materials")======
 
 
 
@@ -31,6 +34,5 @@ https://trello.com/b/G02BHbG2/laravel-blog-system
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee kaveesha12"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee kaveesha12" /></a></p><br><br>
+
 
