@@ -1,5 +1,5 @@
 
-##H1 Hi this is a BLOG System developed using Laravel and PHP
+Hi this is a BLOG System developed using Laravel and PHP
 ========================================================
 ##Headers (Underline)
 Trello 
