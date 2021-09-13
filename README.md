@@ -1,6 +1,5 @@
-##Headers (Underline)
 
-Hi this is a BLOG System developed using Laravel and PHP
+##H1 Hi this is a BLOG System developed using Laravel and PHP
 ========================================================
 ##Headers (Underline)
 Trello 
@@ -8,12 +7,12 @@ https://trello.com/b/G02BHbG2/laravel-blog-system
                                                                 
 
 ###Resources
-![image](https://user-images.githubusercontent.com/59313302/133083185-dd3c7bf9-2e8c-453c-8d46-bf07ead42888.png)
-##Heading 1 link [Laravel](https://laravel.com/ "Laravel")
-##Heading 2 link [GitHub community forum](https://github.community/ "GitHub community forum")
-##Heading 3 link [Education community forum](https://education.github.community/ "Education community forum") 
-##Heading 5 link [GitHub's Learning Lab](https://lab.github.com/  "GitHub's Learning Lab")
-##Heading 6 link [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class "Interactive Git training materials")
+![image](https://user-images.githubusercontent.com/59313302/133083185-dd3c7bf9-2e8c-453c-8d46-bf07ead42888.png) ==========
+link [Laravel](https://laravel.com/ "Laravel")============
+link [GitHub community forum](https://github.community/ "GitHub community forum")==========
+link [Education community forum](https://education.github.community/ "Education community forum")========== 
+link [GitHub's Learning Lab](https://lab.github.com/  "GitHub's Learning Lab")===========
+link [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class "Interactive Git training materials")======
 
 
 
