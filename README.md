@@ -1,9 +1,7 @@
 # How to use
 
 
-Clone repo      
 
-https://github.com/kaveesha12/slaravel-student-portal.git
 
 Install the composer dependencies
 
