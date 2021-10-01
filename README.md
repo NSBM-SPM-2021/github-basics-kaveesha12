@@ -1,5 +1,5 @@
 
-Hi this is a BLOG System developed using Laravel and PHP
+Hi This is a BLOG System developed using Laravel and PHP
 ========================================================
 
 Trello 
