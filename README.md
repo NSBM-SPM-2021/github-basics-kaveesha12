@@ -17,12 +17,12 @@ Resources
 - [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class "Interactive Git training materials")
 - [GitHub community forum](https://github.community/ "GitHub community forum")
 
-How to run..?
-1.Download Composer
-2.Run Cmd in the Project Folder
-3.Type "composer update"
-4.Type "php artisan serve"
-5.Open your browser - http://127.0.0.1:8000
+[How to run..?]
+[1.Download Composer]
+[2.Run Cmd in the Project Folder]
+[3.Type "composer update"]
+[4.Type "php artisan serve"]
+[5.Open your browser - http://127.0.0.1:8000]
 
 
 <h1 align="center">Hi 👋, I'm Kaveesha</h1>
