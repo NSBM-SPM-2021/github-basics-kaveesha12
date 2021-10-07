@@ -1,7 +1,7 @@
 
 Hi This is a BLOG System developed using Laravel and PHP
 ========================================================
-
+NOTE : I HAVE UPLOAD THE "VENDOR" file also which comes after running the program.Thats why some other lanuages are also described............
 Trello 
 https://trello.com/b/G02BHbG2/laravel-blog-system
                                                                 
